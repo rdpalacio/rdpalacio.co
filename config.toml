@@ -1,0 +1,50 @@
+baseURL = "https://rdpalacio.co/"
+languageCode = "en-us"
+copyright = "Attribution 4.0 International (CC BY 4.0)"
+title = "Ruben Dario Palacio"
+theme = "hugo-theme-notrack"
+newContentEditor = "nvim"
+mainSections = ["rants"]
+paginate = 4
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+
+[params]
+  author = "Ruben Dario Palacio"
+  siteHeading = "Ruben Dario Palacio" # defaults to author
+  showBlogLatest = true
+  mainSections = ["rants"]
+  showTaxonomyLinks = false
+  nBlogLatest = 5 # number of blog post om the home page
+  blogLatestHeading = "Ruben's Rants"
+
+  [params.social]
+    researchgate = "Ruben_Dario_Palacio"
+    googlescholar = "user=jRGXJK4AAAAJ&hl=en"
+    github = "rdpalacio/"
+    twitter = "rdpalacio1"
+    email = "rdpalacio@ecotonos.org"
+    
+[taxonomies]
+  year = "year"
+  month = "month"
+  tags = "tags"
+  categories = "categories"
+
+[permalinks]
+  rants = "/rants/:year/:month/:slug"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[outputs]
+  home = [ "RSS", "HTML" ]
+  section = [ "HTML" ]
+  taxonomyTerm = [ "HTML" ]
+  taxonomy = [ "HTML" ]
+
+[outputFormats]
+[outputFormats.RSS]
+  mediatype = "application/RSS"
+  baseName = "feed"
