@@ -7,7 +7,7 @@ menu:
     weight: 10
 ---
 
-My research and conservation work usually involves biological surveys and monitoring, habitat restoration, community ecology, spatial analysis (GIS), species distribution models, biogeography and conservation biology.
+My research and conservation work involves biological surveys and monitoring, habitat restoration, community ecology, spatial analysis (GIS), species distribution models, biogeography and conservation biology.
 
 A list of my publications can be found in my scholarly profiles at [ResearchGate](https://www.researchgate.net/profile/Ruben_Dario_Palacio) and [Google Scholar](https://scholar.google.com/citations?user=jRGXJK4AAAAJ&hl=en).
 
