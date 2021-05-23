@@ -3,6 +3,6 @@ layout: archives
 menu:
   main:
     name: Archive
-    parent: Rants
+    parent: Essays
 title: Archive
 ---

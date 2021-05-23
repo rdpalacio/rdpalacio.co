@@ -9,7 +9,7 @@ title: About
 
 **Short Bio**
 
-I am an ecologist and conservation biologist. My day-to-day work usually involves fieldwork, birds, and spatial analysis. Most of my career has been devoted to the conservation and restoration of the tropical Andes and the Key Biodiversity Area (KBA) San Antonio cloud forest in particular. 
+I am an ecologist and conservation biologist. My day-to-day work involves fieldwork, birds, and spatial analysis. Most of my career has been devoted to the conservation and restoration of the tropical Andes and the Key Biodiversity Area (KBA) San Antonio cloud forest in particular. 
 
 Here is my [Curriculum Vitae.](/files/Ruben-Dario-Palacio_CV-2020.pdf)
 
@@ -19,9 +19,11 @@ My research and conservation work has had considerable impact, for instance:
 
 * The study on [100 years of biodiversity change](https://doi.org/10.1111/cobi.13423) in the San Antonio cloud forest lead to the purchase of 53 ha of land for conservation, and the proposal to establish a biological corridor to improve habitat connectivity. To support this work please go to the website of my NGO [Fundacion Ecotonos.](http://www.ecotonos.org)
 
-* My [paper]( https://doi.org/10.1111/btp.12290) on the seed dispersal network of the San Antonio cloud forest (2016) has been cited over 40 times and helped develop further work using network analysis for community ecology in other areas of Colombia. 
+* My [research]( https://doi.org/10.1111/btp.12290) on the seed dispersal network of the San Antonio cloud forest (2016) has been cited over 40 times and helped develop further work using network analysis for community ecology in other areas of Colombia. I has also appeared in a synthesis book ["Ecological Networks in the Tropics"](https://link.springer.com/book/10.1007/978-3-319-68228-0) and as a key reference [on the importance of _Miconia_](https://doi.org/10.1093/aob/mcaa189), small tropical berries that are consumed by small and large frugivores alike.
 
-* The [list of the birds of Cali (2017)](http://hdl.handle.net/20.500.11761/34241) has inspired the creation of a new [field guide](https://ecopedia.cvc.gov.co/sites/default/files/archivosAdjuntos/libro_de_aves_de_cali.pdf) for the city, the conservation of its natural resources and its promotion as an ecotourism destination.
+
+* The [list of the birds of Cali (2017)](http://hdl.handle.net/20.500.11761/34241) has inspired the creation of a new [field guide](https://ecopedia.cvc.gov.co/sites/default/files/archivosAdjuntos/libro_de_aves_de_cali.pdf) for the city, the conservation of its natural resources and its promotion as an ecotourism destination. This list does not only have local relevance. In fact,  [Cali might be the city with most birds in the world](https://www.thenatureofcities.com/2021/04/09/is-cali-the-city-with-the-most-birds-in-the-world/)
+
 
 * Research on [biogeographic regions in the tropical Andes](https://doi.org/10.1073/pnas.1803908115) (PNAS front-cover 2018) has been cited over 74 times and has been influential to increase our understanding of evolutionary patterns in the Andes.
 
@@ -41,6 +43,8 @@ I focus on making a contribution. I’d rather help save species from extinction
 
 *"little to no credit is given by academic institutions for important conservation activities that do not have a dollar value (...) It is unlikely that an academic institution would grant tenure to faculty whose primary achievements contributed to saving a species or ecosystem."* (Parsons and Cigliano 2020)
 
+Sadly, many conservation biologists have spent decades writing detailed obituaries for species, [wasting valuable resources](https://doi.org/10.1038/s41467-020-18486-6) instead of doing things to solve the problem.
+
 
 **Political Views**
 
@@ -48,5 +52,7 @@ Echo-anarchism (deep ecology), bioregionalism and localism.
 
 Our world will better with systemic alternatives that are based on ecological principles and social systems of cooperation, instead of relying on ideologies and the exploitation of other people and species.
 
-I favor organic bottom-up approaches, instead of top-down control from governments. I value freedom and I am a privacy advocate in the era of mass-surveillance and people being sold as a product on the Internet. 
+I favor organic bottom-up approaches, instead of top-down control from governments. I value freedom of speech and I am a privacy advocate.
+
+In 2016 I signed along 1500+ fulbrighters a [concern letter](https://www.huffpost.com/entry/an-open-letter-from-1500-fulbrighters-regarding-the_b_582b14aee4b02b1f5257a91b?ncid=engmodushpmg00000006) on the election of Donald Trump.
   

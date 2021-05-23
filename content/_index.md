@@ -20,6 +20,6 @@ My [research]({{< ref "research.md" >}}) has been published in several peer-revi
 
 *Based on my expertise, I have things to say — mostly contrarian, likely anarchical — to inform the conversation on how to deal with our current earthly affairs.*
 
-Here I am sharing my thoughts on the environment (and society) through weekly [Rants]({{< ref "rants/_index.md" >}}) on issues that have caught my rage or love in the last few days. The opinions expressed here are my completely my own and at my own risk.
+On this site I share my thoughts on the environment (and society) through a series of short [Essays]({{< ref "essays/_index.md" >}}). The opinions expressed here are my completely my own.
 
 I encourage you to subscribe to the [RSS Feed](http://rdpalacio.co/feed.xml) and get the content delivered to your mail. Finally, I invite you to know more [About]({{< ref "about.md" >}}) me and find out what I am up to right [Now]({{< ref "now.md" >}}).
