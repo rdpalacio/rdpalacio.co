@@ -4,5 +4,5 @@ menu:
   main:
     name: Essays
     weight: 50
-title: Ruben's Rants and Essays
+title: Ruben's Essays
 ---
